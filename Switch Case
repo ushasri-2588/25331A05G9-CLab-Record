@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+	int choice;
+	float a,b;
+	printf("Enter 2 no: ");
+	scanf("%f%f",&a,&b);
+	printf("Enter choice (1-Add,2-Sub,3-Multi,4-Div):" );
+	scanf("%d",&choice);
+	switch(choice)
+	{
+	case 1: printf("Result = %.2f",a+b);
+	break;
+	case 2: printf("Result = %.2f",a-b);
+	break;
+	case 3: printf("Result = %.2f",a*b);
+	break;
+	case 4: printf("Result = %.2f",a/b);
+	break;
+	default : printf("Invalid Choice");
+	}
+	return 0;
+}
