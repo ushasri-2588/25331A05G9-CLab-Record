@@ -16,5 +16,6 @@ int main() {
     }
      s1[i] = '\0';
     printf("Concatenated string = %s",s1);
+    printf("\n     25331A05G9");
     return 0;
 }
