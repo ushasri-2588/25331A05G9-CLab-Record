@@ -11,5 +11,6 @@ int main()
     printf("Concatenate: %s\n",strcat(s1,s2));
     printf("Compare: %d\n",strcmp(s1,s2));
     printf("Length: %d\n",strlen(s1));
+    printf("\n     25331A05G9");
     return 0;
 }
