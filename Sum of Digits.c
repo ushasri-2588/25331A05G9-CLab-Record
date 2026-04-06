@@ -11,5 +11,6 @@ int main()
 	n=n/10;
 	}
 	printf("Sum of digits = %d\n ",sum);
+	printf("\n     25331A05G9");
 	return 0;
 }
