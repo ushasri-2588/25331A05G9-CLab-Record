@@ -25,5 +25,6 @@ int main()
     printf("Enter a number: ");
     scanf("%d", &num);
     prime(num);
+    printf("\n     25331A05G9");
     return 0;
 }
