@@ -12,5 +12,6 @@ int main()
     printf("Enter n and r values: ");
     scanf("%d %d", &n, &r);
     printf("nCr = %d", ncr(n,r));
+    printf("\n     25331A05G9");
     return 0;
 }
