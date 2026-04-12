@@ -17,5 +17,6 @@ int main()
     printf("Enter string: ");
     scanf("%s", d.str);
     printf("String = %s\n", d.str);
+    printf("     \n25331A05G9");
     return 0;
 }
